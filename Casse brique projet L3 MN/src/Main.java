@@ -35,7 +35,7 @@ public class Main extends JFrame implements Constants {
 		frame.setLocation(dim.width/2-frame.getSize().width/2, dim.height/2-frame.getSize().height/2);
 		
 		//Définit l'icône du programme
-		frame.setIconImage(Toolkit.getDefaultToolkit().getImage("src/img/Icon.png"));
+		frame.setIconImage(Toolkit.getDefaultToolkit().getImage("Casse brique projet L3 MN/src/img/Icon.png"));
 		
 		frame.setVisible(true);
 	}
