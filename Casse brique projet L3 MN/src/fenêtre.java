@@ -30,9 +30,9 @@ public class fenêtre extends JPanel implements Runnable, Constants {
 	private Thread game;
 
 	//on peut ajouter une musique de fond si on le souhaite il faute juste cree un ficher wav et mettre les pistes audio
-	private String songOne = "src/wav/One.wav";
-	private String songTwo = "src/wav/Two.wav";
-	private String songThree = "src/wav/Three.wav";
+	private String songOne = "Casse brique projet L3 MN/src/wav/One.wav";
+	private String songTwo = "Casse brique projet L3 MN/src/wav/One.wav";
+	private String songThree = "Casse brique projet L3 MN/src/wav/One.wav";
 	private String songFour = "Casse brique projet L3 MN/src/wav/Four.wav";
 	private String songFive = "Casse brique projet L3 MN/src/wav/Five.wav";
 	private String songSix = "Casse brique projet L3 MN/src/wav/Six.wav";
